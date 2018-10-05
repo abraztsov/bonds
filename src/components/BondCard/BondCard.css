@@ -1,0 +1,19 @@
+.BondCard-head {
+  display: flex;
+  align-items: flex-end;
+  margin-bottom: 15px;
+}
+.BondCard-head h1 {
+  margin-right: 10px;
+}
+.BondCard-head p {
+  text-transform: uppercase;
+}
+.BondCard-chartWrapper {
+  position: relative;
+}
+.BondCard-chartWrapper-selectList {
+  position: absolute;
+  bottom: 25%;
+  right: 15%;
+}

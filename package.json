@@ -3,12 +3,25 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "chart.js": "^2.7.2",
+    "enzyme": "^3.7.0",
+    "enzyme-adapter-react-16": "^1.6.0",
+    "highcharts": "^6.1.4",
+    "highcharts-react-official": "^1.4.0",
+    "jest-dom": "^2.0.2",
     "normalize.css": "^8.0.0",
     "react": "^16.5.2",
+    "react-chartkick": "^0.3.0",
     "react-dom": "^16.5.2",
     "react-redux": "^5.0.7",
     "react-scripts": "2.0.3",
-    "redux": "^4.0.0"
+    "react-testing-library": "^5.1.1",
+    "recompose": "^0.30.0",
+    "redux": "^4.0.0",
+    "redux-actions": "^2.6.1",
+    "redux-promise-middleware": "^5.1.1",
+    "redux-thunk": "^2.3.0",
+    "segmented-control": "^0.1.10"
   },
   "scripts": {
     "start": "react-scripts start",
